@@ -1,5 +1,6 @@
 <center>## 👋 Hey, I'm Siri Chandhana!<center>
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="200">
+  
 - 🧠 Just a 20 y/o who loves turning logic into code
 - 💼 Currently building better post-order journeys as an **SDE Intern @ Walmart Global Tech**  
 - 🎓 Studying IT @ ***GRIET*** (2022–2026) | CGPA: ***9.44 / 10***
