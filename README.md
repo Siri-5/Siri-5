@@ -1,4 +1,4 @@
-<center>## 👋 Hey, I'm Siri Chandhana!<center>
+<center><h2> 👋 Hey, I'm Siri Chandhana! </h2></center>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="220">
   
 - 🧠 Just a 20 y/o who loves turning logic into code
@@ -60,7 +60,6 @@
   <a href="mailto:chandhana535@gmail.com"><img src="https://img.shields.io/badge/Gmail-Siri Chandhana-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/siri-chandhana-allenki-1b0886249/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
----
 
 <!--
 **Siri-5/Siri-5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
