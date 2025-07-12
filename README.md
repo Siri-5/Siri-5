@@ -57,8 +57,8 @@
 
 - 
 <p align="center">
-  <a href="mailto:chandhana535@gmail.com"><img src="https://img.shields.io/badge/Gmail-chandhana535%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/siri-chandhana-allenki-1b0886249/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:chandhana535@gmail.com"><img src="https://img.shields.io/badge/Gmail-Siri Chandhana-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/siri-chandhana-allenki-1b0886249/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 ---
 
