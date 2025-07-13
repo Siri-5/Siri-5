@@ -20,6 +20,18 @@
 
 ---
 
+### 💡 Tech Stack
+
+```javascript
+const techstack = {
+  languages: ["Python", "Java", "C", "SQL", "HTML", "CSS", "JavaScript"],
+  frameworks: ["React", "Node.js"],
+  coreCS: ["Data Structures & Algorithms (DSA)", "DBMS", "Operating Systems (OS)", "Computer Networks (CN)"],
+  tools: ["Git", "TestCafe", "VSCode", "Postman"]
+}
+```
+
+---
 ### 🏅 Achievements
 
 - 🥇 Google Girl Hackathon 2025 – *Semi-Finalist*  
@@ -35,15 +47,6 @@
 - 🥇 Elite + Gold – *User-Centric HCI, NPTEL*  
 - 🥈 Silver – *Data Science for Engineers, NPTEL*  
 - 🗃️ RDBMS using PostgreSQL – *Spoken Tutorial, IIT Bombay*
-
----
-
-### 💡 Tech Stack
-
-**Languages**: Python, Java, C, SQL, HTML/CSS, JavaScript  
-**Frameworks**: React, Node.js  
-**Core CS**: DSA, DBMS, OS, CN  
-**Tools**: Git, TestCafe, VSCode, Postman  
 
 ---
 
