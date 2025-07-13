@@ -24,8 +24,8 @@
 
 ```javascript
 const techstack = {
-  languages: ["Python", "Java", "C", "SQL", "HTML", "CSS", "JavaScript"],
-  frameworks: ["React", "Node.js"],
+  languages: [Python, Java, C, SQL, HTML, CSS, JavaScript],
+  frameworks: [React, Node.js],
   coreCS: ["Data Structures & Algorithms (DSA)", "DBMS", "Operating Systems (OS)", "Computer Networks (CN)"],
   tools: ["Git", "TestCafe", "VSCode", "Postman"]
 }
